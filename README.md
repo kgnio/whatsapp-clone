@@ -1,9 +1,9 @@
 # 📱 WhatsApp Clone – Full Stack Real-Time Chat App
 
-![License](https://img.shields.io/github/license/kagan-dev/Whatsapp-clone?style=flat-square)
-![Stars](https://img.shields.io/github/stars/kagan-dev/Whatsapp-clone?style=social)
-![Issues](https://img.shields.io/github/issues/kagan-dev/Whatsapp-clone)
-![Last Commit](https://img.shields.io/github/last-commit/kagan-dev/Whatsapp-clone)
+![License](https://img.shields.io/github/license/kgnio/Whatsapp-clone?style=flat-square)
+![Stars](https://img.shields.io/github/stars/kgnio/Whatsapp-clone?style=social)
+![Issues](https://img.shields.io/github/issues/kgnio/Whatsapp-clone)
+![Last Commit](https://img.shields.io/github/last-commit/kgnio/Whatsapp-clone)
 
 A modern **WhatsApp Clone** built using **Next.js**, **Clerk**, **Convex**, and **ZEGOCLOUD**. Includes features such as secure authentication, real-time messaging, video/group calls, dark/light themes, and responsive UI.
 
@@ -129,4 +129,4 @@ See [`LICENSE`](./LICENSE) for more information.
 
 ## 📬 Contact
 
-**Project Maintainer**: [@kagan-dev](https://github.com/kagan-dev)
+**Project Maintainer**: [@kgnio](https://github.com/kgnio)
