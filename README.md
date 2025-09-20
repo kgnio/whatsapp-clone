@@ -114,7 +114,7 @@ Then open [http://localhost:3000](http://localhost:3000) to view it in your brow
 2. 🌿 Create your feature branch: `git checkout -b feature/feature-name`  
 3. 💾 Commit your changes: `git commit -m 'Add feature'`  
 4. 📤 Push to the branch: `git push origin feature/feature-name`  
-5. 🔁 Open a pull request  
+5. 🔁 Open a pull request   
 
 We welcome contributions of all kinds!
 
